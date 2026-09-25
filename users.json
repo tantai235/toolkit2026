@@ -1,0 +1,2494 @@
+{
+  "updated_at": "2026-09-25T16:13:40.886770",
+  "version": "2.0",
+  "offline_admin": {
+    "username": "tantai",
+    "pin": "230597",
+    "customer_name": "Tấn Tài",
+    "phone": "0834379793",
+    "role": "Administrator",
+    "status": "active",
+    "expiry": "Vĩnh viễn",
+    "hwid": ""
+  },
+  "users": [
+    {
+      "username": "tantai",
+      "pin": "230597",
+      "customer_name": "Tấn Tài",
+      "phone": "0834379793",
+      "role": "Administrator",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": "2026-09-20 18:44:15",
+      "created_at": "2026-09-20 00:00:00"
+    },
+    {
+      "username": "tuankiet",
+      "pin": "tuankiet",
+      "customer_name": "tuankiet",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "admin",
+      "pin": "123",
+      "customer_name": "admin",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "duonghainam",
+      "pin": "99999999",
+      "customer_name": "duonghainam",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "maytinhtruyenhoa",
+      "pin": "Truyenhoa106@",
+      "customer_name": "maytinhtruyenhoa",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "namnguyen",
+      "pin": "99999999",
+      "customer_name": "Khách hàng",
+      "phone": "",
+      "role": "Kỹ thuật viên",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": "2026-09-20 21:58:13",
+      "created_at": "2026-09-20 08:31:13",
+      "profile_revision": [
+        1789867873282244700,
+        "9ca36e0c0cf64c9a9238ee4588116e95"
+      ]
+    },
+    {
+      "username": "wwwhieu1234",
+      "pin": "123456789Hieu@",
+      "customer_name": "wwwhieu1234",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "nguyendinhbach",
+      "pin": "99999999",
+      "customer_name": "nguyendinhbach",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "tuananh",
+      "pin": "anh123",
+      "customer_name": "tuananh",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "minhphungvie",
+      "pin": "1997",
+      "customer_name": "minhphungvie",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "maytinhduchieu",
+      "pin": "Hieu1986@",
+      "customer_name": "Máy Tính Đức Hiếu",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": "2026-09-20 16:21:19",
+      "created_at": "2026-09-20 15:45:00",
+      "profile_revision": [
+        1789893973040029300,
+        "36dd254c7a4d4d84abf601f620c34926"
+      ]
+    },
+    {
+      "username": "NPL",
+      "pin": "abcd1234",
+      "customer_name": "NPL",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "rimkk248",
+      "pin": "Rim123@",
+      "customer_name": "rimkk248",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "dang",
+      "pin": "200499",
+      "customer_name": "dang",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "Ducbac179",
+      "pin": "Asd2179@",
+      "customer_name": "Ducbac179",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "nhne.admin",
+      "pin": "nhne.admi",
+      "customer_name": "nhne.admin",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "bvdqnit",
+      "pin": "Dinh123123",
+      "customer_name": "Bn khach mua tool",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "duymanh",
+      "pin": "68686868",
+      "customer_name": "duymanh",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "tienhung2509",
+      "pin": "maytinhtienhung",
+      "customer_name": "tienhung2509",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "thietnn77",
+      "pin": "thietnn77@Aa",
+      "customer_name": "Thiet Nguyen",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "letuanvu",
+      "pin": "Letuanvu1997",
+      "customer_name": "Le Tuan Vu",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "tkiet",
+      "pin": "072003",
+      "customer_name": "tkiet",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "vietvuivezxc",
+      "pin": "vietvuive12",
+      "customer_name": "vietvuivezxc",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "thephuongcomputer",
+      "pin": "11223344",
+      "customer_name": "Khách hàng",
+      "phone": "",
+      "role": "Kỹ thuật viên",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [
+        {
+          "id": "7fb05168ec464f02b509478b43289a18",
+          "username": "thephuongcomputer",
+          "computer": "DESKTOP-HOSTJKQ",
+          "time": "2026-09-20T11:49:27+00:00",
+          "source": "admin",
+          "revision": 1789904967040122300
+        },
+        {
+          "id": "776a6a45977c4cc5967adc759b9af38b",
+          "username": "thephuongcomputer",
+          "computer": "THEPHUONG-IT",
+          "time": "2026-09-20T13:02:59+00:00",
+          "source": "user",
+          "revision": 1789909379575815300
+        }
+      ],
+      "last_login": "2026-09-20 20:00:52",
+      "created_at": "2026-09-20 18:46:49",
+      "profile_revision": [
+        1789904967040122300,
+        "4befed5ce5954e2db5a50fb49bf1422f"
+      ]
+    },
+    {
+      "username": "namtc",
+      "pin": "Nam@123",
+      "customer_name": "namtc",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "sangpc@gmail.com",
+      "pin": "@sang@123",
+      "customer_name": "Huynhthanhsang",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "tuean",
+      "pin": "222156",
+      "customer_name": "tuean",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "siro",
+      "pin": "123123123",
+      "customer_name": "siro",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "computerworkshop",
+      "pin": "pbkdf2_sha256$600000$16771fdef7af3adfdac11c7dd5e11d14$9f6f4c4815cdaecd4d3bdbdf87fbed3a5bdc370805cb3369a9d6c900b819acf6",
+      "customer_name": "Computer Tu Do",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790071260239528600,
+        "b02bbeaf2081478f8cba944f63d57f92"
+      ],
+      "password_events": [
+        {
+          "id": "b02bbeaf2081478f8cba944f63d57f92",
+          "username": "computerworkshop",
+          "computer": "namdamsat",
+          "time": "2026-09-22T10:01:00+00:00",
+          "source": "user",
+          "revision": 1790071260239528600
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "baominh",
+      "pin": "0988032082",
+      "customer_name": "Mrtien",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "longhung139",
+      "pin": "longhung13986",
+      "customer_name": "Nguyen Long hung",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "mayvanphongclls@gmail.com",
+      "pin": "Admin789",
+      "customer_name": "mayvanphongclls@gmail.com",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "duongkt76",
+      "pin": "Duongit76",
+      "customer_name": "duongkt76",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "vantai",
+      "pin": "1161",
+      "customer_name": "vantai",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "0366605490",
+      "pin": "Abcd12345@",
+      "customer_name": "Khách hàng",
+      "phone": "0366605490",
+      "role": "Kỹ thuật viên",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": "",
+      "created_at": "2026-09-20 08:34:00",
+      "profile_revision": [
+        1789868040361178400,
+        "0a604a7d2a5c4e2ba41ddc7749a21f51"
+      ]
+    },
+    {
+      "username": "huyhohung",
+      "pin": "123123123",
+      "customer_name": "huyhohung",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "antam",
+      "pin": "antam",
+      "customer_name": "antam",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "adminvikkafe",
+      "pin": "admin",
+      "customer_name": "adminvikkafe",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "hacamera",
+      "pin": "hacamera",
+      "customer_name": "hacamera",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "daoquyetcomputer",
+      "pin": "daoquyetcomputer",
+      "customer_name": "daoquyetcomputer",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": ""
+    },
+    {
+      "username": "nguyenhung",
+      "pin": "nguyenhung",
+      "customer_name": "Khách hàng",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "password_revision": [
+        1790049104425732700,
+        "sync"
+      ],
+      "password_events": [],
+      "last_login": "",
+      "created_at": "2026-09-20 16:39:28",
+      "profile_revision": [
+        1789897168794058000,
+        "06d8dfcc27be4c53b2c21cda9b0fdad7"
+      ]
+    },
+    {
+      "username": "duongtantai",
+      "customer_name": "duongtantai",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-22T15:27:28.013655",
+      "profile_revision": [
+        1790065648012679680,
+        "cd5f76e339f04130b9fc22d974b652a6"
+      ],
+      "pin": "pbkdf2_sha256$600000$af17d856b3f0c39366f021103b672ea7$801c5178d58a4e6af5676bd806057ec7ba920dfc58e3a488f4b17b52838824ec",
+      "password_revision": [
+        1790065648455093800,
+        "3ab20f5d7dac471e9a7d961359ee1f69"
+      ],
+      "password_events": [
+        {
+          "id": "3ab20f5d7dac471e9a7d961359ee1f69",
+          "username": "duongtantai",
+          "computer": "UserPassManager",
+          "time": "2026-09-22T08:27:28+00:00",
+          "source": "admin",
+          "revision": 1790065648455093800
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "fuck",
+      "customer_name": "fuck",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-22T15:29:56.009188",
+      "profile_revision": [
+        1790065796009188096,
+        "56fe0c9d8da04fa987a8603acca2a658"
+      ],
+      "pin": "pbkdf2_sha256$600000$c93c315184a2f9e099a26f2f19a541bc$60a586cc004c99c754a2c5edf01b32e3a59ee6b73a9438176f9d2f306acc3cd0",
+      "password_revision": [
+        1790065796445884100,
+        "1338ca48631a4d48a7cba4c8ccaca53d"
+      ],
+      "password_events": [
+        {
+          "id": "1338ca48631a4d48a7cba4c8ccaca53d",
+          "username": "fuck",
+          "computer": "UserPassManager",
+          "time": "2026-09-22T08:29:56+00:00",
+          "source": "admin",
+          "revision": 1790065796445884100
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "nguyentoma1609",
+      "customer_name": "nguyentoma1609",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-22T15:56:00.577644",
+      "profile_revision": [
+        1790067360577644288,
+        "11aac89692534fa8869df346937679fe"
+      ],
+      "pin": "pbkdf2_sha256$600000$22418c4ba3cd28bec732f6f96bbf1317$06a017694bdfbf4b08fe1b755f31201546c9cbeacdeed70e2323bd8dd591f080",
+      "password_revision": [
+        1790067361002398400,
+        "51faf2666e644f838b6c3b012f043142"
+      ],
+      "password_events": [
+        {
+          "id": "51faf2666e644f838b6c3b012f043142",
+          "username": "nguyentoma1609",
+          "computer": "UserPassManager",
+          "time": "2026-09-22T08:56:01+00:00",
+          "source": "admin",
+          "revision": 1790067361002398400
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "khanhsan0301",
+      "customer_name": "khanhsan0301",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-22T15:57:43.111402",
+      "profile_revision": [
+        1790067463111402240,
+        "e057476463944761a8b4218dc46f2943"
+      ],
+      "pin": "pbkdf2_sha256$600000$2c04ba3b126daa2d5c719e074c8a8e2d$1a1e81d26914d22d8a065b93f2eef32851518a57d939921d7275900cfc7218ab",
+      "password_revision": [
+        1790067463543112700,
+        "dcc46e126e984eb1a1612ad053477d19"
+      ],
+      "password_events": [
+        {
+          "id": "dcc46e126e984eb1a1612ad053477d19",
+          "username": "khanhsan0301",
+          "computer": "UserPassManager",
+          "time": "2026-09-22T08:57:43+00:00",
+          "source": "admin",
+          "revision": 1790067463543112700
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "messihuhu123",
+      "customer_name": "messihuhu123",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-22T16:16:52.177354",
+      "profile_revision": [
+        1790068612177354240,
+        "cf58de38040746e786c91d98341510d4"
+      ],
+      "pin": "pbkdf2_sha256$600000$7b75840bd11355766266c85389f8c525$652e8e9f370fe403e39e31a95e49808a2ddefd3169968481fd7aa4551d18425b",
+      "password_revision": [
+        1790068612602140100,
+        "0a4b1a2833dd4171b4b2376cb0a6634d"
+      ],
+      "password_events": [
+        {
+          "id": "0a4b1a2833dd4171b4b2376cb0a6634d",
+          "username": "messihuhu123",
+          "computer": "UserPassManager",
+          "time": "2026-09-22T09:16:52+00:00",
+          "source": "admin",
+          "revision": 1790068612602140100
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "huynhhuuhoi",
+      "customer_name": "huynhhuuhoi",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-22T16:18:05.096718",
+      "profile_revision": [
+        1790068685096718080,
+        "c9f9e0d8a03d4e3ea4e6cbc642841ab8"
+      ],
+      "pin": "pbkdf2_sha256$600000$0c2fa326182c774400d824363a9ae10f$c41a85425c5c61a6b2c66391658efa15022154bef95c5e7bf4ea1976335ea17a",
+      "password_revision": [
+        1790068685526162600,
+        "365b0ec28ffd4a549cfda599614738c3"
+      ],
+      "password_events": [
+        {
+          "id": "365b0ec28ffd4a549cfda599614738c3",
+          "username": "huynhhuuhoi",
+          "computer": "UserPassManager",
+          "time": "2026-09-22T09:18:05+00:00",
+          "source": "admin",
+          "revision": 1790068685526162600
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "nhandr2304",
+      "customer_name": "Le Thanh Nhan",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-22T16:24:50.751547",
+      "profile_revision": [
+        1790069090751547392,
+        "539700d7f897430c99163a75a3b8b112"
+      ],
+      "pin": "pbkdf2_sha256$600000$76bf3fd7aecffd277b88949f8b0b7ba9$0e9451c871f0658e98b4e412c659525119f42d3ce4ef94b06b770c8244a71be8",
+      "password_revision": [
+        1790069091174986900,
+        "30c3afc35bf142aa8140d077949f1b4a"
+      ],
+      "password_events": [
+        {
+          "id": "30c3afc35bf142aa8140d077949f1b4a",
+          "username": "nhandr2304",
+          "computer": "UserPassManager",
+          "time": "2026-09-22T09:24:51+00:00",
+          "source": "admin",
+          "revision": 1790069091174986900
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "nguyenleminhlam",
+      "customer_name": "nguyenleminhlam",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-22T16:39:20.520437",
+      "profile_revision": [
+        1790069960520437760,
+        "4a89ae70733b4e00beb9721ad1ec9117"
+      ],
+      "pin": "pbkdf2_sha256$600000$ca7f4cca4e295c5fbc4995320a80909e$cdfde4547a04c8bcc9361f18f52fbbaaaf61350cd975c25d2be9d3642a27c3bd",
+      "password_revision": [
+        1790069960961778400,
+        "b4a5b8d3fa6f40318c946e75c1b7976a"
+      ],
+      "password_events": [
+        {
+          "id": "b4a5b8d3fa6f40318c946e75c1b7976a",
+          "username": "nguyenleminhlam",
+          "computer": "UserPassManager",
+          "time": "2026-09-22T09:39:20+00:00",
+          "source": "admin",
+          "revision": 1790069960961778400
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "minhtran",
+      "customer_name": "minhtran",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-22T16:48:39.970602",
+      "profile_revision": [
+        1790070519970601984,
+        "0775674816424adeb878fd6ac93e2565"
+      ],
+      "pin": "pbkdf2_sha256$600000$b926ebea2cebecce15a7778e25992753$76c5f32d8d5e9f7d015c5e94ce26cd22b1c6b0918cde486d85f885749e2bbcc2",
+      "password_revision": [
+        1790070520408026700,
+        "467358fd59ba45199ad6c49183962a32"
+      ],
+      "password_events": [
+        {
+          "id": "467358fd59ba45199ad6c49183962a32",
+          "username": "minhtran",
+          "computer": "UserPassManager",
+          "time": "2026-09-22T09:48:40+00:00",
+          "source": "admin",
+          "revision": 1790070520408026700
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "keke355992",
+      "customer_name": "keke355992",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-22T16:49:11.202559",
+      "profile_revision": [
+        1790070551202559488,
+        "94bd50bb41324dcb975f9df06597e305"
+      ],
+      "pin": "pbkdf2_sha256$600000$ae0020f02961886c72cae5f1a5816f85$52e0f2f6f71c086fe8b4fdf4127321a17f3145726732f3927a9c9f773a859a90",
+      "password_revision": [
+        1790070551690496900,
+        "865ce64fb48048b38f05ccb71323703d"
+      ],
+      "password_events": [
+        {
+          "id": "865ce64fb48048b38f05ccb71323703d",
+          "username": "keke355992",
+          "computer": "UserPassManager",
+          "time": "2026-09-22T09:49:11+00:00",
+          "source": "admin",
+          "revision": 1790070551690496900
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "quanit311",
+      "customer_name": "quanit311",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-22T16:49:35.460019",
+      "profile_revision": [
+        1790070575460018944,
+        "d3025f6b8de443d1baa4171a30cfba17"
+      ],
+      "pin": "pbkdf2_sha256$600000$8de6c70145482714db1a7320f9ac27c3$4de9a1642750de8f4cff155e356dc31f0efbcdbd2a76ab0c89fb350434262b54",
+      "password_revision": [
+        1790070575899274600,
+        "7ea869a11fce42f4b8b7b64f7fe5a257"
+      ],
+      "password_events": [
+        {
+          "id": "7ea869a11fce42f4b8b7b64f7fe5a257",
+          "username": "quanit311",
+          "computer": "UserPassManager",
+          "time": "2026-09-22T09:49:35+00:00",
+          "source": "admin",
+          "revision": 1790070575899274600
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "haivu",
+      "customer_name": "haivu",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-22T16:58:02.950696",
+      "profile_revision": [
+        1790071082950696704,
+        "522ce856cece49088a009ed1345f7982"
+      ],
+      "pin": "pbkdf2_sha256$600000$bf5b37276ffe11372af2d4421508506a$7353fc09cb2d23f234aed386753a47b789adf14ac22812ad1fb4cbf75abd4856",
+      "password_revision": [
+        1790071083479615500,
+        "b8a4d3b58c4a4086b4fdfd08d5ccc315"
+      ],
+      "password_events": [
+        {
+          "id": "b8a4d3b58c4a4086b4fdfd08d5ccc315",
+          "username": "haivu",
+          "computer": "UserPassManager",
+          "time": "2026-09-22T09:58:03+00:00",
+          "source": "admin",
+          "revision": 1790071083479615500
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "quangtin1577",
+      "customer_name": "Quang Tin",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-22T17:02:35.679935",
+      "profile_revision": [
+        1790071355678928640,
+        "8e747d41dc414573a681ed066989a380"
+      ],
+      "pin": "pbkdf2_sha256$600000$52cdf54210f0063aeecb68cb3513e663$b397c23486c2082742774bdb3d1bdff666dbbe6ff9df32eb299bd03a9065cfdf",
+      "password_revision": [
+        1790071356157554500,
+        "93109905c8cc4884958b54feb15a8949"
+      ],
+      "password_events": [
+        {
+          "id": "93109905c8cc4884958b54feb15a8949",
+          "username": "quangtin1577",
+          "computer": "UserPassManager",
+          "time": "2026-09-22T10:02:36+00:00",
+          "source": "admin",
+          "revision": 1790071356157554500
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "dinhbach318",
+      "customer_name": "dinhbach318",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-22T17:31:37.874508",
+      "profile_revision": [
+        1790073097874508032,
+        "98a7173a946e4b3a8caefb8c22bc5e73"
+      ],
+      "pin": "pbkdf2_sha256$600000$ee66edfbf2836d4a006b24556a9d9896$11e1af8880527e6472a9861904dcc9a12ed74c7f05326e6dd76f96be2ac109fb",
+      "password_revision": [
+        1790073098316410100,
+        "716586df72f845ed8bcff93e7e27561b"
+      ],
+      "password_events": [
+        {
+          "id": "716586df72f845ed8bcff93e7e27561b",
+          "username": "dinhbach318",
+          "computer": "UserPassManager",
+          "time": "2026-09-22T10:31:38+00:00",
+          "source": "admin",
+          "revision": 1790073098316410100
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "user_test_deletion_99",
+      "pin": "pbkdf2_sha256$600000$cc50e54be2363f8536c06abe2824c317$3ffabafb34fc6986b4d941d17674e0f50f19e3e7daef5630c883e51c7aa92db8",
+      "customer_name": "Test Deletion User",
+      "phone": "",
+      "role": "Khách hàng",
+      "expiry": "Vĩnh viễn",
+      "created_at": "2026-09-20 16:21:20",
+      "status": "active",
+      "last_login": "",
+      "profile_revision": [
+        1789896080422700700,
+        "fa2c9486e2ea40de9108b97c483ecbc5"
+      ],
+      "password_revision": [
+        1789896080422700700,
+        "015c825e7383496d8a7ef9bf0fcf6094"
+      ],
+      "password_events": []
+    },
+    {
+      "username": "thanhnhan161203",
+      "pin": "pbkdf2_sha256$600000$1f1369ea97bb59cc6603258f747be737$14ce7f6f6902a1a98d7da2c9264e3b74e96a3815803075cc4f3974961585408d",
+      "customer_name": "Thanh Nhan Hoang Long Computer",
+      "phone": "",
+      "role": "Kỹ thuật viên",
+      "expiry": "Vĩnh viễn",
+      "created_at": "2026-09-20 18:52:03",
+      "status": "active",
+      "last_login": "2026-09-20 18:52:39",
+      "profile_revision": [
+        1789905123860005500,
+        "1274fce21e3a4eaa9873a87ef3a83e78"
+      ],
+      "password_revision": [
+        1789905123860005500,
+        "7151b617c5cf4545af05eeddeff0e7e5"
+      ],
+      "password_events": []
+    },
+    {
+      "username": "tuankiettechnology",
+      "pin": "pbkdf2_sha256$600000$8d837dfb95d1d6cdef66b61239b278bd$53a4584e6296a18d86593ebf55fa29491c9462858c17e1783f153963cdbd345b",
+      "customer_name": "Tuan Kiet Tech",
+      "phone": "",
+      "role": "Khách hàng",
+      "expiry": "Vĩnh viễn",
+      "created_at": "2026-09-20 21:06:17",
+      "status": "active",
+      "last_login": "2026-09-20 21:10:45",
+      "profile_revision": [
+        1789913177176637300,
+        "5f6d5ebb54964ec78a6bdb078c93a77f"
+      ],
+      "password_revision": [
+        1789913177176637300,
+        "0e28f3f9b5854e619682bee37c524834"
+      ],
+      "password_events": []
+    },
+    {
+      "username": "rogally",
+      "pin": "pbkdf2_sha256$600000$9a04e6295535abef7a32408fb953a4ff$11b1cd214adf8ca661f8b18cdd7e70a7232ad3ca9bc73f2168a42b1e0976f801",
+      "customer_name": "Khách hàng",
+      "phone": "",
+      "role": "Khách hàng",
+      "expiry": "Vĩnh viễn",
+      "created_at": "2026-09-20 15:56:10",
+      "status": "active",
+      "last_login": "",
+      "profile_revision": [
+        1789894570368842700,
+        "890c99cb32a74611ba6044726f17bc0b"
+      ],
+      "password_revision": [
+        1789894570368842700,
+        "8617dc1959c644b9bfe2ed2c17593861"
+      ],
+      "password_events": []
+    },
+    {
+      "username": "tool2026",
+      "pin": "pbkdf2_sha256$600000$98173b2f162f19d25f93800893616063$d294be66e6f9ffee8cc750c857ab064c6d3f67a2d1087b2ea273fb09ca20df2a",
+      "customer_name": "Khách hàng",
+      "phone": "",
+      "role": "Khách hàng",
+      "expiry": "Vĩnh viễn",
+      "created_at": "2026-09-20 16:05:24",
+      "status": "active",
+      "last_login": "",
+      "profile_revision": [
+        1789895124132074100,
+        "32a5af80a20f420397b173e33aa25c62"
+      ],
+      "password_revision": [
+        1789895124132074100,
+        "fc86b8ea937b498d92b212fa117bbaf0"
+      ],
+      "password_events": []
+    },
+    {
+      "username": "2233",
+      "pin": "pbkdf2_sha256$600000$64d121e3237b3b6270c134f47f5df966$2de50d519d89d2166fc2dc25e70befbde453179875401a07644ec3280d8327cc",
+      "customer_name": "Khách hàng",
+      "phone": "",
+      "role": "Khách hàng",
+      "expiry": "Vĩnh viễn",
+      "created_at": "2026-09-20 16:08:10",
+      "status": "active",
+      "last_login": "",
+      "profile_revision": [
+        1789895290156796800,
+        "b93e728fb5e84963b406ab69f191931a"
+      ],
+      "password_revision": [
+        1789895290156796800,
+        "bf29ec82d64946a797d18d37b5670d5b"
+      ],
+      "password_events": []
+    },
+    {
+      "username": "khach_hang_test_2026",
+      "pin": "pbkdf2_sha256$600000$07bbad25ebe5c1a2901f7a753120686f$3bb147e126afead320499ae9c7d87db99b3e8cebda1ca50b059bd65fc860d1a5",
+      "customer_name": "Khach Test 2026",
+      "phone": "",
+      "role": "Khách hàng",
+      "expiry": "Vĩnh viễn",
+      "created_at": "2026-09-20 15:46:49",
+      "status": "active",
+      "last_login": "",
+      "profile_revision": [
+        1789894009013399200,
+        "8667ac12df4a4c95be82b5da386db220"
+      ],
+      "password_revision": [
+        1789894009013399200,
+        "3e4a413069234c98970e3a0da49c16a0"
+      ],
+      "password_events": []
+    },
+    {
+      "username": "tai",
+      "pin": "pbkdf2_sha256$600000$64fef1efab2d187efea103ac2771d797$cc0f88acc1a03caaa98bade99d2c6ecd566fa6608c4d48f7aa5d8f82127cd6b4",
+      "customer_name": "Khách hàng",
+      "phone": "",
+      "role": "Khách hàng",
+      "expiry": "Vĩnh viễn",
+      "created_at": "2026-09-20 16:32:58",
+      "status": "active",
+      "last_login": "",
+      "profile_revision": [
+        1789896778292250300,
+        "7a4ccc6640874b15aed06b9b5cda31df"
+      ],
+      "password_revision": [
+        1789896778292250300,
+        "b3c6a0f617244b92b537ca03729edbb1"
+      ],
+      "password_events": []
+    },
+    {
+      "username": "test222",
+      "pin": "pbkdf2_sha256$600000$4732321988d4c137ccd275cc2cc50b01$c7d13d469f8f6e996b991d83300e0057db3e691488118826d11b195946837ee6",
+      "customer_name": "Khách hàng",
+      "phone": "",
+      "role": "Khách hàng",
+      "expiry": "Vĩnh viễn",
+      "created_at": "2026-09-20 16:36:34",
+      "status": "active",
+      "last_login": "",
+      "profile_revision": [
+        1789896994816417400,
+        "456486bbaa2942299053e1191e8e903d"
+      ],
+      "password_revision": [
+        1789896994816417400,
+        "6d00007e83af4f669deae369cf10397f"
+      ],
+      "password_events": []
+    },
+    {
+      "username": "thuccomputerprc",
+      "pin": "pbkdf2_sha256$600000$5d44367a0676080fdc4930e42babc8ac$471f13761db1ea793ef24d902111b29e40f37c3c90719e9f8ce68b04b731420b",
+      "customer_name": "Khách hàng",
+      "phone": "",
+      "role": "Kỹ thuật viên",
+      "expiry": "Vĩnh viễn",
+      "created_at": "2026-09-20 13:33:43",
+      "status": "active",
+      "last_login": "",
+      "profile_revision": [
+        1789886023726599800,
+        "0736412424f94403ba268a4d5a23a09a"
+      ],
+      "password_revision": [
+        1789886023726599800,
+        "06c35f020d51459caa6e687e90e26f70"
+      ],
+      "password_events": []
+    },
+    {
+      "username": "Dinhthivt85",
+      "pin": "pbkdf2_sha256$600000$1921f30cf675efba38a3d2a0fd26d1d0$b2080ad12a2f5d4398f2debb0e07b063e63b6ca9f70a309ac32114c9c1ecc568",
+      "customer_name": "Khách hàng",
+      "phone": "",
+      "role": "Kỹ thuật viên",
+      "expiry": "Vĩnh viễn",
+      "created_at": "2026-09-20 15:19:29",
+      "status": "active",
+      "last_login": "",
+      "profile_revision": [
+        1789892369782958700,
+        "e9427bb3e366409baef2c1f12d77143b"
+      ],
+      "password_revision": [
+        1789892369782958700,
+        "434f9252aa444e9883976592a2226a07"
+      ],
+      "password_events": []
+    },
+    {
+      "username": "maytinhduchieu_test",
+      "pin": "pbkdf2_sha256$600000$3f26e2981622c64b6dfa7504bbe968c6$3bc808c15df9f14d7eb34ee71c2dcbd55b696e6dcf297e28d0d3b73489944889",
+      "customer_name": "Test May Tinh Duc Hieu",
+      "phone": "",
+      "role": "Khách hàng",
+      "expiry": "Vĩnh viễn",
+      "created_at": "2026-09-20 15:41:27",
+      "status": "active",
+      "last_login": "",
+      "profile_revision": [
+        1789893687074870300,
+        "fe3343d0c9b34048b8a864eac63881b0"
+      ],
+      "password_revision": [
+        1789893687074870300,
+        "261c01641b1f45239d24d16f791c4496"
+      ],
+      "password_events": []
+    },
+    {
+      "username": "longhungcomputer",
+      "pin": "pbkdf2_sha256$600000$83dccf1c51dbdb7614c5a559e610f145$312ec1229d3d59d667bd1532e1856b97fb6eb6d267863d0622ab20ff6108ccc7",
+      "customer_name": "Khách hàng",
+      "phone": "",
+      "role": "Kỹ thuật viên",
+      "expiry": "Vĩnh viễn",
+      "created_at": "2026-09-20 16:41:17",
+      "status": "active",
+      "last_login": "",
+      "profile_revision": [
+        1789897277300750400,
+        "789badf29a5444d6bfbc1811b5a154c3"
+      ],
+      "password_revision": [
+        1789897277300750400,
+        "a290bf42439441468e6e28f1bb26ce66"
+      ],
+      "password_events": []
+    },
+    {
+      "username": "longhung2026",
+      "pin": "pbkdf2_sha256$600000$851bf7e675a9ed5e84d4157a0bf5cc3b$9da1045b64f711178db0dbeddd146ad87098ddc6ea83139fb90148873a2f8291",
+      "customer_name": "Khách hàng",
+      "phone": "",
+      "role": "Khách hàng",
+      "expiry": "Vĩnh viễn",
+      "created_at": "2026-09-20 16:43:31",
+      "status": "active",
+      "last_login": "",
+      "profile_revision": [
+        1789897411044451700,
+        "8c51c42464644301b7422fea341cc4d0"
+      ],
+      "password_revision": [
+        1789897411044451700,
+        "b10b829c9bfa4f43b2bf4dda88f8f826"
+      ],
+      "password_events": []
+    },
+    {
+      "username": "longhung",
+      "pin": "pbkdf2_sha256$600000$64a27023e26415d175e3c2bc86d15e64$24c1bd39d106e60eaff8b81eee531cfe79abb034e5d3c947c661d5b88a8fa46b",
+      "customer_name": "Khách hàng",
+      "phone": "",
+      "role": "Kỹ thuật viên",
+      "expiry": "Vĩnh viễn",
+      "created_at": "2026-09-20 17:04:25",
+      "status": "active",
+      "last_login": "",
+      "profile_revision": [
+        1789898665906734900,
+        "372ea2d44d38418190dce1a6ee1f21c5"
+      ],
+      "password_revision": [
+        1789898665906734900,
+        "d29314fe124b4ac088d82778545946d8"
+      ],
+      "password_events": []
+    },
+    {
+      "username": "haidaothien@gmail.com",
+      "pin": "pbkdf2_sha256$600000$9c7fa5bfacd9b034e62126fc78274c5a$28f8a8a861f490518384e4d036562ccbc53f2c8adfa8357075d84a33b54aab62",
+      "customer_name": "Khách hàng",
+      "phone": "",
+      "role": "Kỹ thuật viên",
+      "expiry": "Vĩnh viễn",
+      "created_at": "2026-09-20 17:08:03",
+      "status": "active",
+      "last_login": "",
+      "profile_revision": [
+        1789898883589095400,
+        "092a43f2f5d5402dae041af0b9454171"
+      ],
+      "password_revision": [
+        1789898883589095400,
+        "3ff60840ae5c4a30a834063ce04d4330"
+      ],
+      "password_events": []
+    },
+    {
+      "username": "test_khach",
+      "pin": "pbkdf2_sha256$600000$401730aefc78fe04f3e1ebb70f218700$c906e088de5482c31aa849221abb6b6366244eac9ecf8a8cba73adcddb19539d",
+      "customer_name": "Khach Hang Test",
+      "phone": "",
+      "role": "Khách hàng",
+      "expiry": "Vĩnh viễn",
+      "created_at": "2026-09-19 22:19:01",
+      "status": "active",
+      "last_login": "2026-09-19 22:25:33",
+      "profile_revision": [
+        1789831520735541900,
+        "43cb2d66a5424299ba73387ce3bfc754"
+      ],
+      "password_revision": [
+        1789831520735541900,
+        "d6bbac93bc424e4ebaf90c34d28153e9"
+      ],
+      "password_events": [
+        {
+          "id": "d6bbac93bc424e4ebaf90c34d28153e9",
+          "username": "test_khach",
+          "computer": "DESKTOP-HOSTJKQ",
+          "time": "2026-09-19T15:25:20+00:00",
+          "source": "admin",
+          "revision": 1789831520735541900
+        }
+      ]
+    },
+    {
+      "username": "LN",
+      "pin": "pbkdf2_sha256$600000$8bb0da9ac9ee34c5c704685a094f9fa0$a6f3ed748c08cf369f48c64eabdd053041b9f97f71a1bf2ac9963324ffa53551",
+      "customer_name": "Khách hàng",
+      "phone": "",
+      "role": "Khách hàng",
+      "expiry": "Vĩnh viễn",
+      "created_at": "2026-09-19 22:43:41",
+      "status": "active",
+      "last_login": "",
+      "profile_revision": [
+        1789832672833565600,
+        "823cb114a6b846e9abf876d002b78f65"
+      ],
+      "password_revision": [
+        1789832672833565600,
+        "84b3b0f058bb475ba924be8f027df25c"
+      ],
+      "password_events": [
+        {
+          "id": "84b3b0f058bb475ba924be8f027df25c",
+          "username": "LN",
+          "computer": "DESKTOP-HOSTJKQ",
+          "time": "2026-09-19T15:44:32+00:00",
+          "source": "admin",
+          "revision": 1789832672833565600
+        }
+      ]
+    },
+    {
+      "username": "asus",
+      "pin": "pbkdf2_sha256$600000$1702c2f7c04a87eb0d67ac90d838c7ad$b59b2b1286ec9e3ee43b923d6b39459277eed65edfc819f65c9f1d36c11bf071",
+      "customer_name": "Khách hàng",
+      "phone": "",
+      "role": "Quản trị viên",
+      "expiry": "Vĩnh viễn",
+      "created_at": "2026-09-19 23:35:56",
+      "status": "active",
+      "last_login": "2026-09-20 00:53:24",
+      "profile_revision": [
+        1789835756092450500,
+        "b66e1dd7939e48d0a85f86ebe1a3f5c7"
+      ],
+      "password_revision": [
+        1789835756092450500,
+        "b61266bc039a4336a604157a84662c4e"
+      ],
+      "password_events": []
+    },
+    {
+      "username": "khach_moi_1",
+      "pin": "pbkdf2_sha256$600000$77b36102e6e7c0e7967db3a1a5724bd4$10af50d8b40eee42afa2846bfe99da1fafe065da676e431a0d7544a0f143d47b",
+      "customer_name": "Khach Hang Moi 1",
+      "phone": "",
+      "role": "Khách hàng",
+      "expiry": "Vĩnh viễn",
+      "created_at": "2026-09-20 00:43:33",
+      "status": "active",
+      "last_login": "",
+      "profile_revision": [
+        1789839813061256300,
+        "90d03f14656242579ce8ad830a9a2989"
+      ],
+      "password_revision": [
+        1789839813061256300,
+        "462a81a2e3534cb4ac86696a4070309e"
+      ],
+      "password_events": []
+    },
+    {
+      "username": "huynhnhu",
+      "pin": "pbkdf2_sha256$600000$f44eebfdafdef1df36149d07b3afd9d1$7b31024bd79e1e0e75317c7b11f274d4ea2f77647a016624b811cba34f4d138c",
+      "customer_name": "Khách hàng",
+      "phone": "",
+      "role": "Kỹ thuật viên",
+      "expiry": "Vĩnh viễn",
+      "created_at": "2026-09-20 02:10:15",
+      "status": "active",
+      "last_login": "",
+      "profile_revision": [
+        1789845015812948700,
+        "b459ae2ce7674b1fb006bd67e4711abe"
+      ],
+      "password_revision": [
+        1789845015812948700,
+        "2748aec2dfdf4a138e1acfb33a173311"
+      ],
+      "password_events": []
+    },
+    {
+      "username": "duong",
+      "customer_name": "duong",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-22T17:44:18.878413",
+      "profile_revision": [
+        1790073858878413056,
+        "cbc5c91956c442e49f1b551e0144be7f"
+      ],
+      "pin": "pbkdf2_sha256$600000$e137eaa744b0aa363c6d941269b1fa75$d0d1615bdc0dbffc06a5eccbecc178c13f35c58ed8c935ab4670dff711419c52",
+      "password_revision": [
+        1790073859297581900,
+        "c568af4df4a8469e9f66ec299e4c8c9e"
+      ],
+      "password_events": [
+        {
+          "id": "c568af4df4a8469e9f66ec299e4c8c9e",
+          "username": "duong",
+          "computer": "UserPassManager",
+          "time": "2026-09-22T10:44:19+00:00",
+          "source": "admin",
+          "revision": 1790073859297581900
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "manhpto",
+      "customer_name": "manhpto",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-22T18:06:03.840539",
+      "profile_revision": [
+        1790075163840539136,
+        "23840e1425c94eb7967badd95616f5d0"
+      ],
+      "pin": "pbkdf2_sha256$600000$32037547c6545a233cb3b9087c62273e$a7fda65503f9a8a3118e046ab1a2e4b7c9d9b46231a54f6dfba6cb954310523c",
+      "password_revision": [
+        1790075164275783300,
+        "b921b662127a45bda47ddb2688344bd7"
+      ],
+      "password_events": [
+        {
+          "id": "b921b662127a45bda47ddb2688344bd7",
+          "username": "manhpto",
+          "computer": "UserPassManager",
+          "time": "2026-09-22T11:06:04+00:00",
+          "source": "admin",
+          "revision": 1790075164275783300
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "0904410904",
+      "customer_name": "0904410904",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-22T18:25:42.726653",
+      "profile_revision": [
+        1790076342726653440,
+        "a96b7adbaac34d6d9a04d7543935a672"
+      ],
+      "pin": "pbkdf2_sha256$600000$2fc26cf7fe75a10c8cd86280f7192d10$57a31f875132cddd6bd5f07146a8ffe516ecac0bc0c89df0ae5ab7af942fe549",
+      "password_revision": [
+        1790076343206810000,
+        "85f60a3e911a42aeb82f1ea8388cf3af"
+      ],
+      "password_events": [
+        {
+          "id": "85f60a3e911a42aeb82f1ea8388cf3af",
+          "username": "0904410904",
+          "computer": "UserPassManager",
+          "time": "2026-09-22T11:25:43+00:00",
+          "source": "admin",
+          "revision": 1790076343206810000
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "vant1989",
+      "customer_name": "Van Tran Zalo",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-22T18:30:32.124037",
+      "profile_revision": [
+        1790076632124037376,
+        "5a7fd40c72ea4a6686bdd570b90c6237"
+      ],
+      "pin": "pbkdf2_sha256$600000$b7329332a004344866f02aaddb9cc912$b5a23703ee9ca0f5c8c073f8270f8edae582d4cbd98566e4fa262469d8da781e",
+      "password_revision": [
+        1790076632572268200,
+        "31911420198e4ffab2407f90f4a4fe15"
+      ],
+      "password_events": [
+        {
+          "id": "31911420198e4ffab2407f90f4a4fe15",
+          "username": "vant1989",
+          "computer": "UserPassManager",
+          "time": "2026-09-22T11:30:32+00:00",
+          "source": "admin",
+          "revision": 1790076632572268200
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "thang99",
+      "customer_name": "thang99",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-22T23:25:25.876287",
+      "profile_revision": [
+        1790094325876286976,
+        "c71b3f840d9344ae9ab1a8ec41a6e329"
+      ],
+      "pin": "pbkdf2_sha256$600000$e2adccd3f385620d4a37f742d6db3fb4$d83c7c681bd7bb0f107c95a528eb4e9fb411e8715bc928861998bd8085e63d53",
+      "password_revision": [
+        1790094326305368200,
+        "66adadb2639c4fc38391f5491022ae0d"
+      ],
+      "password_events": [
+        {
+          "id": "66adadb2639c4fc38391f5491022ae0d",
+          "username": "thang99",
+          "computer": "UserPassManager",
+          "time": "2026-09-22T16:25:26+00:00",
+          "source": "admin",
+          "revision": 1790094326305368200
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "vuhung",
+      "customer_name": "vuhung",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-22T23:31:34.564405",
+      "profile_revision": [
+        1790094694564404992,
+        "8bb47b3836f14b2b97758198639fb622"
+      ],
+      "pin": "pbkdf2_sha256$600000$ecb82fd8405dd9f96f0f1203bb88e087$b79989d942ceb95ef310f1ed13e80b5429d29ca27bd146ffdd58e69b5aeec2f7",
+      "password_revision": [
+        1790094694998185900,
+        "bf4de8cb85a841179dd97c86563f271c"
+      ],
+      "password_events": [
+        {
+          "id": "bf4de8cb85a841179dd97c86563f271c",
+          "username": "vuhung",
+          "computer": "UserPassManager",
+          "time": "2026-09-22T16:31:34+00:00",
+          "source": "admin",
+          "revision": 1790094694998185900
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "tuyen280",
+      "customer_name": "tuyen280",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-22T23:51:14.757184",
+      "profile_revision": [
+        1790095874757185024,
+        "83e0f6c5e50d4e2daa366ebc2de0adc7"
+      ],
+      "pin": "pbkdf2_sha256$600000$7addceb57df8bb5e7e6f250ad789cd26$4edcc7d76d582786f8a01328e939dd4552a1cd16ba860f19f9e5a1d22b0956ab",
+      "password_revision": [
+        1790095875195168300,
+        "58e4fea108f847aabf8e62bfb00d7c6c"
+      ],
+      "password_events": [
+        {
+          "id": "58e4fea108f847aabf8e62bfb00d7c6c",
+          "username": "tuyen280",
+          "computer": "UserPassManager",
+          "time": "2026-09-22T16:51:15+00:00",
+          "source": "admin",
+          "revision": 1790095875195168300
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "0968588266",
+      "customer_name": "0968588266",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-23T10:55:15.152699",
+      "profile_revision": [
+        1790135715152699648,
+        "3e15a446f2da414cae1ff1f5199aa480"
+      ],
+      "pin": "pbkdf2_sha256$600000$265d9401a34b69d4c8d7d0265a2730e8$179f2e49633d7fd869de8766c83ccfe3323710666067f46ae0aa1f4863a45a11",
+      "password_revision": [
+        1790135715594596200,
+        "e0fe9a8b09e145f6bb282ebb5f07c2ee"
+      ],
+      "password_events": [
+        {
+          "id": "e0fe9a8b09e145f6bb282ebb5f07c2ee",
+          "username": "0968588266",
+          "computer": "UserPassManager",
+          "time": "2026-09-23T03:55:15+00:00",
+          "source": "admin",
+          "revision": 1790135715594596200
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "vungoclap90",
+      "customer_name": "vungoclap90",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-23T11:19:20.478474",
+      "profile_revision": [
+        1790137160477469952,
+        "cc9b79dcb1644913bcc971122decdc6f"
+      ],
+      "pin": "pbkdf2_sha256$600000$30acdbedf6e323b7d33984ada2f16c71$42cd7abaff12f766688cc96a9ac7fdbbeff00fd21a3d9d7db8e1914a37366a48",
+      "password_revision": [
+        1790137160910323400,
+        "a81bb14b9d65492cbdcf863fa2bf6571"
+      ],
+      "password_events": [
+        {
+          "id": "a81bb14b9d65492cbdcf863fa2bf6571",
+          "username": "vungoclap90",
+          "computer": "UserPassManager",
+          "time": "2026-09-23T04:19:20+00:00",
+          "source": "admin",
+          "revision": 1790137160910323400
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "vietnq",
+      "customer_name": "vietnq",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-23T11:29:10.596514",
+      "profile_revision": [
+        1790137750596514560,
+        "87bc3244fc774e6d93858bc835e42446"
+      ],
+      "pin": "pbkdf2_sha256$600000$fb559d0b33a0265f2558a1cb184490c4$44f3b3cdbf7be32ae5c325f25e6c148fe0c71a00b108d6d0e8d109b6e8e51203",
+      "password_revision": [
+        1790137751078045000,
+        "e8b0f60699b7499486c87a9609c6c4a1"
+      ],
+      "password_events": [
+        {
+          "id": "e8b0f60699b7499486c87a9609c6c4a1",
+          "username": "vietnq",
+          "computer": "UserPassManager",
+          "time": "2026-09-23T04:29:11+00:00",
+          "source": "admin",
+          "revision": 1790137751078045000
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "nguyenviethung",
+      "customer_name": "nguyenviethung",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-23T12:28:35.064945",
+      "profile_revision": [
+        1790141315064945920,
+        "e68694a377854e8caf873746d7364252"
+      ],
+      "pin": "pbkdf2_sha256$600000$ffd66c4230f5d61ff9033a2adb66e11c$70259f39122f640161655116d266e55fd3562683a93f19aef2e7c89ec1be7645",
+      "password_revision": [
+        1790141315500661000,
+        "9132049ca03e40c2b92672c6134051ac"
+      ],
+      "password_events": [
+        {
+          "id": "9132049ca03e40c2b92672c6134051ac",
+          "username": "nguyenviethung",
+          "computer": "UserPassManager",
+          "time": "2026-09-23T05:28:35+00:00",
+          "source": "admin",
+          "revision": 1790141315500661000
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "phamthi",
+      "customer_name": "phamthi",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-23T13:16:56.849928",
+      "profile_revision": [
+        1790144216849928448,
+        "32ae40d1f61647db9baefe80c3fa54a6"
+      ],
+      "pin": "pbkdf2_sha256$600000$202dc3fe7bdf35011900449cbec5b03b$f8a67ba98394fdfe08c94e165e89b2e61b34658c0e9191fcfd7b079a3d47cc26",
+      "password_revision": [
+        1790144217284715700,
+        "289d6ef6481b457592a39018557b33ad"
+      ],
+      "password_events": [
+        {
+          "id": "289d6ef6481b457592a39018557b33ad",
+          "username": "phamthi",
+          "computer": "UserPassManager",
+          "time": "2026-09-23T06:16:57+00:00",
+          "source": "admin",
+          "revision": 1790144217284715700
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "nguyenhung2026",
+      "customer_name": "nguyenhung2026",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-23T14:28:26.848385",
+      "profile_revision": [
+        1790148506848385536,
+        "70db363892e94e63b14e0729ed1758b7"
+      ],
+      "pin": "pbkdf2_sha256$600000$6602fe35f77d7ab86d2943e6a808b6f9$b8c5050d2bb73c77f447bf4c162fa21f591f14ed2b19946a56aacdb677cca1da",
+      "password_revision": [
+        1790148507280956700,
+        "32fac5e8ae6b4ad9b5b0ed511bc0d2a7"
+      ],
+      "password_events": [
+        {
+          "id": "32fac5e8ae6b4ad9b5b0ed511bc0d2a7",
+          "username": "nguyenhung2026",
+          "computer": "UserPassManager",
+          "time": "2026-09-23T07:28:27+00:00",
+          "source": "admin",
+          "revision": 1790148507280956700
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "phuock39",
+      "customer_name": "phuock39",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-23T14:32:04.203367",
+      "profile_revision": [
+        1790148724203367680,
+        "de1ab45d339d401cbb62f529dba186d5"
+      ],
+      "pin": "pbkdf2_sha256$600000$9b08f6f86d5e5c69a2dab1c96569b364$1354bc949444588327903faa794932586840948136579e213e91d8ee95e978e8",
+      "password_revision": [
+        1790148724633406800,
+        "8ceef4cc1f2244a4a707e9b7eaec986e"
+      ],
+      "password_events": [
+        {
+          "id": "8ceef4cc1f2244a4a707e9b7eaec986e",
+          "username": "phuock39",
+          "computer": "UserPassManager",
+          "time": "2026-09-23T07:32:04+00:00",
+          "source": "admin",
+          "revision": 1790148724633406800
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "lamanhvu",
+      "customer_name": "lamanhvu",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-23T14:49:35.201552",
+      "profile_revision": [
+        1790149775201552384,
+        "4cd1fe477e4e4a2eac9bcbff3b6a6689"
+      ],
+      "pin": "pbkdf2_sha256$600000$99d47b0faaf38df6baff21461a66bd72$5f02b6c9f8bf08e18d9e0cad6fc28163ec758f03aa38f061ab0282d25560d310",
+      "password_revision": [
+        1790149775640272300,
+        "63bfe21adcfc4d3e9347ada2cf7f29a3"
+      ],
+      "password_events": [
+        {
+          "id": "63bfe21adcfc4d3e9347ada2cf7f29a3",
+          "username": "lamanhvu",
+          "computer": "UserPassManager",
+          "time": "2026-09-23T07:49:35+00:00",
+          "source": "admin",
+          "revision": 1790149775640272300
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "maytinhbaoanhbg",
+      "customer_name": "maytinhbaoanhbg",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-23T16:18:40.237945",
+      "profile_revision": [
+        1790155120237945088,
+        "89237b63398c49a4a8c4a17ce5b7e771"
+      ],
+      "pin": "pbkdf2_sha256$600000$3657fb721daf7b79e2dea2444f0a159d$4489f95c49452aebc991277f8901556917f25c391434f6da18a7df905112ffc1",
+      "password_revision": [
+        1790155120671463200,
+        "ad57d82bb1c94816aa462e35777915fb"
+      ],
+      "password_events": [
+        {
+          "id": "ad57d82bb1c94816aa462e35777915fb",
+          "username": "maytinhbaoanhbg",
+          "computer": "UserPassManager",
+          "time": "2026-09-23T09:18:40+00:00",
+          "source": "admin",
+          "revision": 1790155120671463200
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "chunghieu",
+      "customer_name": "chunghieu",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-23T18:49:42.592737",
+      "profile_revision": [
+        1790164182592737280,
+        "3f456207a73743ecb36f60be1c16c166"
+      ],
+      "pin": "pbkdf2_sha256$600000$2bab2b44a4e3d2dbb3c533f6fdd4c4b5$97cc966c3b9ac8c212e0f2f2340d42c4eea156dcf56dfad7c95dbab470e26880",
+      "password_revision": [
+        1790164183034405500,
+        "7de5ad9e990c4c29a1e93bf79a6cb7e8"
+      ],
+      "password_events": [
+        {
+          "id": "7de5ad9e990c4c29a1e93bf79a6cb7e8",
+          "username": "chunghieu",
+          "computer": "UserPassManager",
+          "time": "2026-09-23T11:49:43+00:00",
+          "source": "admin",
+          "revision": 1790164183034405500
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "vitinhayunpa",
+      "customer_name": "vitinhayunpa",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-23T22:29:21.223187",
+      "profile_revision": [
+        1790177361223186944,
+        "f55a4b21ac9a4f0ab207a91b430f244a"
+      ],
+      "pin": "pbkdf2_sha256$600000$d2ccdf512ba6e7f03e777d42ab7b7fdb$0064d9a789186513e9d1817eacb911f007b4fdab3db351b83fe705c6bd1749df",
+      "password_revision": [
+        1790177361656254100,
+        "0654931487664827812d7517b94a9d60"
+      ],
+      "password_events": [
+        {
+          "id": "0654931487664827812d7517b94a9d60",
+          "username": "vitinhayunpa",
+          "computer": "UserPassManager",
+          "time": "2026-09-23T15:29:21+00:00",
+          "source": "admin",
+          "revision": 1790177361656254100
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "0979090904",
+      "customer_name": "0979090904",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-23T23:00:59.954605",
+      "profile_revision": [
+        1790179259954605056,
+        "c7a61fc122924de0a27aa28f27bdfc70"
+      ],
+      "pin": "pbkdf2_sha256$600000$7c056b2e289fda89c07402a66015390c$1a3872090642d6c4eb393acb7f197e52126bb7190faaee6270a2b2b1bdefbd00",
+      "password_revision": [
+        1790179260385276000,
+        "fef4ed225cb44e6b825b6dc51b9fe3d5"
+      ],
+      "password_events": [
+        {
+          "id": "fef4ed225cb44e6b825b6dc51b9fe3d5",
+          "username": "0979090904",
+          "computer": "UserPassManager",
+          "time": "2026-09-23T16:01:00+00:00",
+          "source": "admin",
+          "revision": 1790179260385276000
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "taiphung",
+      "customer_name": "taiphung",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-24T09:36:44.945029",
+      "profile_revision": [
+        1790217404945029120,
+        "87830b396d104d628356d4eabdda048c"
+      ],
+      "pin": "pbkdf2_sha256$600000$331cbc3ecfb7dd9c087edb6c262c026b$3ab346cf870e8427c90bf2f84ba627580d615ab52246b29ac81862022eeae706",
+      "password_revision": [
+        1790217405420878300,
+        "32de4123b2ec4bc0b76a267023e11ea1"
+      ],
+      "password_events": [
+        {
+          "id": "32de4123b2ec4bc0b76a267023e11ea1",
+          "username": "taiphung",
+          "computer": "UserPassManager",
+          "time": "2026-09-24T02:36:45+00:00",
+          "source": "admin",
+          "revision": 1790217405420878300
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "phamgia",
+      "customer_name": "phamgia",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-24T09:46:08.829982",
+      "profile_revision": [
+        1790217968829982720,
+        "b95623b6a11f489cb9b94262f5257851"
+      ],
+      "pin": "pbkdf2_sha256$600000$1ff6ce05508818c6e7e9e995f419170f$def33ca7d6aa53a635a6e159e18df76a7e8102564aec2e76a4678bf70b221622",
+      "password_revision": [
+        1790217969275925100,
+        "7945bda4f0ba4c1ba805dd40e6fc33e2"
+      ],
+      "password_events": [
+        {
+          "id": "7945bda4f0ba4c1ba805dd40e6fc33e2",
+          "username": "phamgia",
+          "computer": "UserPassManager",
+          "time": "2026-09-24T02:46:09+00:00",
+          "source": "admin",
+          "revision": 1790217969275925100
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "phamvanchuong",
+      "customer_name": "phamvanchuong",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-24T10:20:10.130511",
+      "profile_revision": [
+        1790220010130511104,
+        "c474c4cdbbbf49568dcf66c99a1fa365"
+      ],
+      "pin": "pbkdf2_sha256$600000$8a2c10f6b7b6f17be9efde54dd29b8a4$ebc26c79ccb8e5e667d09028cac45acdb77bfd8db46c34572e0a3f934b6a4a66",
+      "password_revision": [
+        1790220010557943800,
+        "f38f5c1e33f74575bf931500a4a56ed4"
+      ],
+      "password_events": [
+        {
+          "id": "f38f5c1e33f74575bf931500a4a56ed4",
+          "username": "phamvanchuong",
+          "computer": "UserPassManager",
+          "time": "2026-09-24T03:20:10+00:00",
+          "source": "admin",
+          "revision": 1790220010557943800
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "honinh",
+      "customer_name": "honinh",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-24T13:18:02.823961",
+      "profile_revision": [
+        1790230682823961856,
+        "a80035de7fd94f558ad0ec8d7bf557f9"
+      ],
+      "pin": "pbkdf2_sha256$600000$febb2f088e82223c09200c237aa1d450$936145f62f528d3b0a597034a22cbc768a8ca00af16578073491a2761a8a69cd",
+      "password_revision": [
+        1790230683312466400,
+        "368f195267e34dc7850e54a3cfaf86e2"
+      ],
+      "password_events": [
+        {
+          "id": "368f195267e34dc7850e54a3cfaf86e2",
+          "username": "honinh",
+          "computer": "UserPassManager",
+          "time": "2026-09-24T06:18:03+00:00",
+          "source": "admin",
+          "revision": 1790230683312466400
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "hoanganhcomputer",
+      "customer_name": "hoanganhcomputer",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-24T14:20:50.182252",
+      "profile_revision": [
+        1790234450182252032,
+        "557ec85a106f477e9b60a7180698ff83"
+      ],
+      "pin": "pbkdf2_sha256$600000$08cc735bf5de1105986858677d901869$a9732e9fde24239e2821fe3e298b7099ec047605d009c8c22d78179bcbfea30f",
+      "password_revision": [
+        1790234450621130300,
+        "bfe30302b4514d2ab0b19ac9a98c59f5"
+      ],
+      "password_events": [
+        {
+          "id": "bfe30302b4514d2ab0b19ac9a98c59f5",
+          "username": "hoanganhcomputer",
+          "computer": "UserPassManager",
+          "time": "2026-09-24T07:20:50+00:00",
+          "source": "admin",
+          "revision": 1790234450621130300
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "caotuan",
+      "customer_name": "caotuan",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-24T15:57:27.730125",
+      "profile_revision": [
+        1790240247730125824,
+        "e20521da574048e0a6e3fa407e2e530f"
+      ],
+      "pin": "pbkdf2_sha256$600000$efc7fd24dca5d6706b59b8420c2f8394$01b5e9b07e6bde1945ddcc5e8fd94b9389132bcaa26bc1734f8785cc0c6a8b41",
+      "password_revision": [
+        1790240248181529500,
+        "5be2e230af2b453cbd46967abdb46b57"
+      ],
+      "password_events": [
+        {
+          "id": "5be2e230af2b453cbd46967abdb46b57",
+          "username": "caotuan",
+          "computer": "UserPassManager",
+          "time": "2026-09-24T08:57:28+00:00",
+          "source": "admin",
+          "revision": 1790240248181529500
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "sakecomputer",
+      "customer_name": "sakecomputer",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-24T16:46:57.016995",
+      "profile_revision": [
+        1790243217016995328,
+        "43cba27e84e947d1b0691b2fad4144de"
+      ],
+      "pin": "pbkdf2_sha256$600000$082500b8fd5d4770d35ef1d058ee7a69$0d49baea54b1ba66e647372283f6a578a42513f0b852b1676d4133fd3c4b7d92",
+      "password_revision": [
+        1790243217446264900,
+        "fb67f4eb26a64b31bad6bfedbe2671da"
+      ],
+      "password_events": [
+        {
+          "id": "fb67f4eb26a64b31bad6bfedbe2671da",
+          "username": "sakecomputer",
+          "computer": "UserPassManager",
+          "time": "2026-09-24T09:46:57+00:00",
+          "source": "admin",
+          "revision": 1790243217446264900
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "huepc",
+      "customer_name": "huepc",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-25T12:51:01.237484",
+      "profile_revision": [
+        1790315461237484800,
+        "8549cc5b34224849abb82e5ea55a04c0"
+      ],
+      "pin": "pbkdf2_sha256$600000$d1aef325dbbd22de47b53dc60b9d6834$a972289c428322c4b10270e8820896a5a96076b61736ee7a661970787c6dc42d",
+      "password_revision": [
+        1790315461654360200,
+        "453648b840a94e0b8834a0f2f7563e7b"
+      ],
+      "password_events": [
+        {
+          "id": "453648b840a94e0b8834a0f2f7563e7b",
+          "username": "huepc",
+          "computer": "UserPassManager",
+          "time": "2026-09-25T05:51:01+00:00",
+          "source": "admin",
+          "revision": 1790315461654360200
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "tranvinh",
+      "customer_name": "tranvinh",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-25T13:02:05.261445",
+      "profile_revision": [
+        1790316125260439040,
+        "9c738e1390c24bdf8381d4cea4591a22"
+      ],
+      "pin": "pbkdf2_sha256$600000$48f831ebf6d9cf0b84910ed4d20b6a95$b16332885d83c99e673c2dc4285bafdfe7ba0677376547c413a4447cced20ab8",
+      "password_revision": [
+        1790316125707687600,
+        "0a01f739a1b845d5878e29e06bb896f8"
+      ],
+      "password_events": [
+        {
+          "id": "0a01f739a1b845d5878e29e06bb896f8",
+          "username": "tranvinh",
+          "computer": "UserPassManager",
+          "time": "2026-09-25T06:02:05+00:00",
+          "source": "admin",
+          "revision": 1790316125707687600
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "htuan63801@gmail.com",
+      "customer_name": "htuan63801@gmail.com",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-25T14:35:10.594009",
+      "profile_revision": [
+        1790321710594009600,
+        "86b9253e33e6481b87e2f14f9c495c3e"
+      ],
+      "pin": "pbkdf2_sha256$600000$16d5c9623d243ba975623a9974bed338$bce0176217fc3813bdbb279a0c85575b425c749c483b8bbb862abe91d61d3b0e",
+      "password_revision": [
+        1790321711020429500,
+        "22dde9c68d7241279e4687458434a6a6"
+      ],
+      "password_events": [
+        {
+          "id": "22dde9c68d7241279e4687458434a6a6",
+          "username": "htuan63801@gmail.com",
+          "computer": "UserPassManager",
+          "time": "2026-09-25T07:35:11+00:00",
+          "source": "admin",
+          "revision": 1790321711020429500
+        }
+      ],
+      "last_login": ""
+    },
+    {
+      "username": "thuan.pham",
+      "customer_name": "thuan.pham",
+      "phone": "",
+      "role": "Khách hàng",
+      "status": "active",
+      "expiry": "Vĩnh viễn",
+      "hwid": "",
+      "updated_at": "2026-09-25T16:00:49.184570",
+      "profile_revision": [
+        1790326849184570112,
+        "c027f423e7f84a28bae1e87b20f3aa39"
+      ],
+      "pin": "pbkdf2_sha256$600000$8411f40876fb76f1e9023e082c223c56$092b3daacadbe9a0890e39456b5dafb1668167286f0e6165fddd657fe6d496ec",
+      "password_revision": [
+        1790326849627339900,
+        "940e9b33aaaa4951b51d0fead39f9be1"
+      ],
+      "password_events": [
+        {
+          "id": "940e9b33aaaa4951b51d0fead39f9be1",
+          "username": "thuan.pham",
+          "computer": "UserPassManager",
+          "time": "2026-09-25T09:00:49+00:00",
+          "source": "admin",
+          "revision": 1790326849627339900
+        }
+      ],
+      "last_login": ""
+    }
+  ],
+  "banned_hwids": [],
+  "deleted_users": [
+    "caothang",
+    "doublelift",
+    "hung86@",
+    "khach_2219",
+    "khach_6469",
+    "sakecompute",
+    "test",
+    "test1",
+    "test2"
+  ]
+}
